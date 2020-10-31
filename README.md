@@ -79,3 +79,16 @@ The code is published under the MIT License.
 The code is developed by Tim-Luca Lagmöller.
 
 
+# 5. Donations / Sponsors
+
+I'm part of the official GitHub Sponsors program where you can support me on a monthly basis.
+
+<a href="https://github.com/sponsors/lagmoellertim" target="_blank"><img src="https://github.com/lagmoellertim/shared-repo-files/raw/main/github-sponsors-button.png" alt="GitHub Sponsors" height="35px" ></a>
+
+You can also contribute by buying me a coffee (this is a one-time donation).
+
+<a href="https://ko-fi.com/lagmoellertim" target="_blank"><img src="https://github.com/lagmoellertim/shared-repo-files/raw/main/kofi-sponsors-button.png" alt="Ko-Fi Sponsors" height="35px" ></a>
+
+Thank you for your support!
+
+
